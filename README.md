@@ -2,7 +2,7 @@
 <h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 <a href="yuwangi.github.io"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yuwangi/count.svg" /></a>
 
-##  [Welcome To yuwangi](yuwangi.github.io)
+##  [Welcome To Yuwangi](yuwangi.github.io)
 <a href="yuwangi.github.io"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
 - 👨🏻‍💻  [自动化发布 npm 包实践](https://yuwangi.github.io/articles/3434666232.html)
@@ -20,7 +20,7 @@
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=yuwangi&url=yuwangi.github.io)](yuwangi.github.io)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=yuwangi&url=https://yuwangi.github.io/)](yuwangi.github.io)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
