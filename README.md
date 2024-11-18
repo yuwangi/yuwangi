@@ -17,7 +17,7 @@
 
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## <img src="[https://emojis.slackmojis.com/emojis/images/1643514812/8272/blob-cool.gif?1643514812](https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738)" width="30"/> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
